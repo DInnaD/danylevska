@@ -77,7 +77,8 @@ a:hover{
 .logo{
     float: left;
     width: auto;/*F*/
-    height: 50px;/*F*/
+    height: 44px;/*F*/
+    margin-left:70px;
 }
 .block2-static-info{
     float: right;
