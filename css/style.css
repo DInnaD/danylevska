@@ -81,7 +81,7 @@ a:hover{
     height: 50px;  
     padding-left: 130px;
     padding-bottom: 55px;
-    padding-top: 25px;
+    padding-top: 20px;
 }
 .block2-static-info{
     float: right;
@@ -118,11 +118,12 @@ a:hover{
 /*  BLOCK3  */
 .block3-navigation{
     background-color: rgba(0, 0, 0, 70);
-    padding: 0 90px;
+    padding: 0;
     position: relative;                
 }
 .block3-menu-inner { 
-    position: fixed;                 
+    padding-left: 70px;
+    
 }                   
 .block3-navigation-nav{
     float: left;
