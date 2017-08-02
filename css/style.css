@@ -116,15 +116,15 @@ a:hover{
 }
 /********************************************************3  */
 /*  BLOCK3  */
-.navigation{
-    background-color: rgba(0, 0, 0, 95);
-    padding: 0 100px;
+.block3-navigation{
+    background-color: rgba(0, 0, 0, 70);
+    padding: 0 90px;
     position: relative;                
 }
-/*.menu-fixed-top { 
+.block3-menu-inner { 
     position: fixed;                 
-}  */                 
-.navigation nav{
+}                   
+.block3-navigation-nav{
     float: left;
 }
 nav li a{
