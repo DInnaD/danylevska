@@ -40,6 +40,7 @@ a:hover{
 }
 .address-block{
     float: left;
+    padding-left: 35px;
 }
 .address-block div{
     display: inline-block;
@@ -75,10 +76,12 @@ a:hover{
     background: #fff;
 }
 .logo{
-    float: left;
-    width: auto;/*F*/
-    height: 44px;/*F*/
-    margin-left:70px;
+        float: left;
+    width: auto;
+    height: 50px;  
+    padding-left: 130px;
+    padding-bottom: 55px;
+    padding-top: 25px;
 }
 .block2-static-info{
     float: right;
