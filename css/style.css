@@ -167,7 +167,7 @@ nav li a:hover{
 }
 .block4-inner-static-info-carusel img {
   width: 100%;
-  height: 638px;
+  height: auto;
   /* по умолчанию inline, в ряде браузеров это даст лишнее пространство вокруг элементов */
   display: block;
 }
