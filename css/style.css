@@ -166,8 +166,8 @@ nav li a:hover{
     
 }
 .block4-inner-static-info-carusel img {
- /* width: 100%;
-  height: auto;*/
+  width: 100%;
+  height: 642px;
   /* по умолчанию inline, в ряде браузеров это даст лишнее пространство вокруг элементов */
   display: block;
 }
@@ -259,7 +259,8 @@ nav li a:hover{
 /*  BLOCK6  */
 .block6-logo-section2-contacts-information1-text-nav{
     background: #bd2631;
-    padding: 70px 100px;    
+    padding: 70px 100px;
+    max-width:1000px;
 }
 .left-text-static-info {
     float: left; 
