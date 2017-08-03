@@ -173,11 +173,11 @@ nav li a:hover{
 }
 
 .block4-example-left{
-    
+    position: absolute;
     float: left;
 }
 .block4-example-right{
-    
+    position: absolute;
     float: right;
 }
 
