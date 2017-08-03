@@ -171,6 +171,16 @@ nav li a:hover{
   /* по умолчанию inline, в ряде браузеров это даст лишнее пространство вокруг элементов */
   display: block;
 }
+
+.block4-example-left{
+    
+    float: left;
+}
+.block4-example-right{
+    
+    float: right;
+}
+
 /*****************************************************************not*/
 .block4-carusel{
   
