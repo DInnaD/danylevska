@@ -165,6 +165,12 @@ nav li a:hover{
     padding: 0;
     
 }
+.block4-inner-static-info-carusel img {
+  width: 100%;
+  height: 638px;
+  /* по умолчанию inline, в ряде браузеров это даст лишнее пространство вокруг элементов */
+  display: block;
+}
 /*****************************************************************not*/
 .block4-carusel{
   
@@ -186,7 +192,7 @@ nav li a:hover{
 }
 .arrow {
   position: relative;
-  top: 327px;
+  top: 150px;
   padding: 57px;
   /*background: #ddd;*/
   /*border-radius: 15px;*/
